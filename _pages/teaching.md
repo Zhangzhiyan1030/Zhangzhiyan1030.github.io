@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Kindle the fire in your heart. 
+permalink: /Hobbies/
+title: Hobbies
+description: Foolish anime fan (and hates sports). 
 nav: true
 nav_order: 5
 ---
