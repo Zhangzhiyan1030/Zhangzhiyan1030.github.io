@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-## Courses
+## Anime and Manga
 
-I am teaching the following courses:
+I prefer Japanese anime, but I also enjoy Chinese, Korean, and American comics. But I only watch anime on Bilibili, so I can only post Bilibili links here. Please bear with me.
 
 - Ph.D Course [Computational Communication Research Workshop](https://github.com/socrateslab/workshop/discussions) (2020-Now)
 - Master Course [Introduction to Computational Communication](https://github.com/chengjun/mybook/discussions) (2018-Now)
