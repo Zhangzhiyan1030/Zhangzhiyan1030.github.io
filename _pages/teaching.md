@@ -50,9 +50,7 @@ This is my dearest cat. You can call it Meow. You can be delighted to see it's a
 
 <img src="/assets/img/Meow1.jpg" align = "middle" width = "800px">
 
-I am organizing the [**Tycho Reading Club**](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0) to discuss the computational social science every Wendesday at *News Coffee*. You can learn about our future activies by scanning the QR code below or watch the [videos](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0) of prior activites. 
-
-![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
+If you're going to keep a cat, you need to be prepared to wrestle with it. That means you must have a strong body, a resilient spirit, and an unyielding character. So get to work, kid—get to work.
 
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/teaching.md">
