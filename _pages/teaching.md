@@ -22,25 +22,11 @@ I prefer Japanese anime, but I also enjoy Chinese, Korean, and American comics. 
 - Luo Xiaohui Chronicles [Season 2](https://www.bilibili.com/bangumi/play/ep82320?spm_id_from=333.1387.0.0&from_spmid=666.25.episode.0) (Episodes 21-40)
 
 
-## The books I prefer
-
-I am planning to teach a undergraduate course based on Professor Liu Junqiang's book titled The Craft of Writing (《写作是门手艺》). [Github Repo](https://github.com/SocratesAcademy/craft). 
-- Here is the [Jupyter Notebook](https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true) and [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/). 
-- I find the Essay Writing Guide written by Jordan B Peterson is very useful. I convert it into slides and add some annotations. [The Power of Writing: Ten Steps of Essay Writing](https://computational-communication.com/workshop/notebook/Essay%20Writing%20Guide.slides.html#/). 
-- In addition, I highly recommend Howard Becker's book **Writing for Social Scientists** ([Notebook](https://nbviewer.org/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb) & [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb#/)). 
-- Similarly, I like Anthony Miles's introduction to [A Taxonomy of Research Gaps](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/WritingResearchGaps.ipynb#/).
-- Yet my favorite book on academic writing is Paul J. Silva's **How to Write a Lot: A Practical Guide to Productive Academic Writing** ([Slides](https://socratesacademy.github.io/craft/how-to-write-a-lot-2023.slides.html#/)). 
-
 ## Currently interest
 
 I've recently become completely hooked on bead art, assembling countless tiny beads into intricate patterns. It might seem a bit childish for kindergarteners, but it's just right for graduate students.
 
 <img src="/assets/img/pindou.jpg" align = "middle" width = "800px">
-
-and I think it is very useful as the textbook for the class of Causal Inference 101. Check the
-[Slides](https://nbviewer.org/format/slides/github/socrateslab/causal101/blob/main/causal101.ipynb#/) and [Notebook](https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb). 
-- I am co-organizing the Causal Inference 101 course with [Dr. Zhihao Ma](https://github.com/xiaoma093), check the [github repo](https://github.com/socrateslab/causal101/discussions) of **Causal Inference 101**.
-- I highly recommend the book titled [**Causal Inference for The Brave and True**](https://matheusfacure.github.io/python-causality-handbook/landing-page.html).
 
 
 ## Let me introduce my cat
