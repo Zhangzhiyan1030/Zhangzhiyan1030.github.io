@@ -52,6 +52,11 @@ This is my dearest cat. You can call it Meow. You can be delighted to see it's a
 
 If you're going to keep a cat, you need to be prepared to wrestle with it. That means you must have a strong body, a resilient spirit, and an unyielding character. So get to work, kid—get to work.
 
+<img src="/assets/img/Meow2.jpg" align = "middle" width = "800px">
+
+But if you're looking for some free cat-petting opportunities, head over to the School of Journalism and Communication at Nanjing University. It's home to the most beautiful cats on the entire Nanjing University campus. You're sure to have a great time. And don't forget to bring some cat treats or freeze-dried snacks!
+
+
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/teaching.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
