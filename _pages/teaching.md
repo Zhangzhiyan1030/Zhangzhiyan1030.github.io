@@ -11,16 +11,15 @@ nav_order: 5
 
 I prefer Japanese anime, but I also enjoy Chinese, Korean, and American comics. But I only watch anime on Bilibili, so I can only post Bilibili links here. Please bear with me.
 
-- Ph.D Course [Computational Communication Research Workshop](https://github.com/socrateslab/workshop/discussions) (2020-Now)
-- Master Course [Introduction to Computational Communication](https://github.com/chengjun/mybook/discussions) (2018-Now)
-- Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
-- MOOC Course [Digital Marketing](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
+- [Crayon Shin-chan](https://www.bilibili.com/bangumi/play/ep825757?spm_id_from=333.1387.0.0&from_spmid=666.25.episode.0)  I've watched it since I was a kid. 
+- Is there really anyone who doesn't like watching [EVA](https://www.bilibili.com/bangumi/play/ep29857?spm_id_from=333.1387.0.0&from_spmid=666.25.episode.0)?
+- It's precisely because I like [Shikimura Nanao](https://www.bilibili.com/bangumi/play/ep90830?spm_id_from=333.1387.0.0&from_spmid=666.25.episode.0) that I like pink-haired girls.
+- Who are you? Please support [Danganronpa](https://www.bilibili.com/bangumi/play/ss4400?spm_id_from=333.1387.0.0)!
 
-{{% callout note %}} My Home Education Course [Explaining the world to kids!](https://github.com/SocratesAcademy/kids/discussions) (2021-Now) {{% /callout %}}
+{{% callout note %}} I've been hooked on [Luo Xiaohei Chronicles](https://www.bilibili.com/bangumi/play/ss1733?spm_id_from=333.1387.0.0) lately. Check it out! {{% /callout %}}
 
-- Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
-- Undergraduate Course [Python Programming Basics For Data Science](https://github.com/socratesacademy/datascience/) (2017-2019)
-- FDU Graduate Course [Introduction to Computational Communication](https://github.com/computational-class/cjc/) (2015-2021)
+- Luo Xiaohui Chronicles [Season 1](https://www.bilibili.com/bangumi/play/ep32374?spm_id_from=333.1387.0.0&from_spmid=666.25.episode.0) (Episodes 1-20)
+- Luo Xiaohui Chronicles [Season 2](https://www.bilibili.com/bangumi/play/ep82320?spm_id_from=333.1387.0.0&from_spmid=666.25.episode.0) (Episodes 21-40)
 
 
 ## Academic Writing
