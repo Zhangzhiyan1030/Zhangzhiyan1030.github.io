@@ -25,6 +25,9 @@ I prefer Japanese anime, but I also enjoy Chinese, Korean, and American comics. 
 ## The books I prefer
 
 I am planning to teach a undergraduate course based on Professor Liu Junqiang's book titled The Craft of Writing (《写作是门手艺》). [Github Repo](https://github.com/SocratesAcademy/craft). 
+
+<img src="/assets/img/jumping bear.jpg" align = "middle" width = "800px">
+
 - Here is the [Jupyter Notebook](https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true) and [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/). 
 - I find the Essay Writing Guide written by Jordan B Peterson is very useful. I convert it into slides and add some annotations. [The Power of Writing: Ten Steps of Essay Writing](https://computational-communication.com/workshop/notebook/Essay%20Writing%20Guide.slides.html#/). 
 - In addition, I highly recommend Howard Becker's book **Writing for Social Scientists** ([Notebook](https://nbviewer.org/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb) & [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb#/)). 
