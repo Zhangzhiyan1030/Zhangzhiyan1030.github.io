@@ -28,6 +28,8 @@ Responsible for creative planning of daily advertisements and variety shows, han
 - UNESCO Beijing Office Project Assistant (February 2024 – August 2024)
 Provided administrative support for the implementation, monitoring, and evaluation of the “China World Heritage Sites Conservation and Management” project and other regular programs, as well as for budget control and reporting. Assisted in drafting a total of 21 reports, 7 letters, 3 speeches, and 18 correspondence documents. Supported updates to the official website and public account, and provided translation and interpretation services (Chinese-English and English-Chinese) as required.
 
+<img src="/assets/img/11.png" align = "middle" width = "800px">
+
 
 ## Let me introduce my cat
 
