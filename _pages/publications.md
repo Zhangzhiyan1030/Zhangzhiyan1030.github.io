@@ -1,16 +1,16 @@
 ---
 layout: page
-permalink: /publications/
-title: Publication
+permalink: /Reward/
+title: Reward
 description: The only thing that I know is I know nothing!
 nav: true
 nav_order: 1
 ---
 
-1. After insulting someone on Weibo, the post garnered thousands of reposts and likes, resulting in a six-month account suspension.
-2. Posting pictures or videos of my cat on Xiaohongshu—whether through photos, videos, or drawings—has gotten lots of likes, and it warms my heart.
-3. Back in middle school, posting pretentious literary comments on NetEase Cloud Music. Thought I was so cool back then, but now I want to strangle my past self. All comments have been deleted (2016).
-4. Nothing else to add. Wow, you're amazing, teacher—how did you manage to publish so much? I couldn't even come up with six points myself.
+1. 2023 Milan Design Week Exhibition of Outstanding Works by Faculty and Students from Chinese Design Programs: National Third Prize
+2. National College Students Advertising Art Competition: Provincial Third Prize (2023), Provincial Excellence Award (2021)
+3. Outstanding Student Journalist (Top 1%) Journalism Corps, Converged Media Center Communication University of China
+4. Received university-level scholarships for two consecutive years (top 2.5% of students): University Second-Class Scholarship (2022-2023) University Third-Class Scholarship (2021-2022)
 
 
 
