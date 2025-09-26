@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Achievements/
-title: Achievements
+permalink: /Internship/
+title: Internship
 description: Here I present my research achievements, awards, and internship projects.
 nav: true
 nav_order: 5
