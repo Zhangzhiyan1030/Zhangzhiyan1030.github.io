@@ -2,9 +2,9 @@
 layout: page
 permalink: /Internship/
 title: Internship
-description: Here I present my research achievements, awards, and internship projects.
+description: An internship offers another perspective on exploring this field.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 ## CCTV Entertainment Media - Assistant Visual Director
