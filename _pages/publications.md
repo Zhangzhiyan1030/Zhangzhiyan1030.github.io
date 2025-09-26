@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Reward/
-title: Reward
-description: The only thing that I know is I know nothing!
+permalink: /Publication/
+title: Publication
+description: Advancing with passion and perseverance on the academic journey!
 nav: true
 nav_order: 1
 ---
