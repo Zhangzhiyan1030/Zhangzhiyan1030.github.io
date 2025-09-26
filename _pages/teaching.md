@@ -26,18 +26,12 @@ February 2024 - May 2024
 <img src="/assets/img/11.png" align = "middle" width = "800px">
 
 
-## Let me introduce my cat
+## NetEase Media (Beijing) Co., Ltd.
 
+NetEase News - New Media Operations Intern，March 2022 – March 2023
 
-This is my dearest cat. You can call it Meow. You can be delighted to see it's a tabby cat.
-
-<img src="/assets/img/Meow1.jpg" align = "middle" width = "800px">
-
-If you're going to keep a cat, you need to be prepared to wrestle with it. That means you must have a strong body, a resilient spirit, and an unyielding character. So get to work, kid—get to work.
-
-<img src="/assets/img/Meow2.jpg" align = "middle" width = "800px">
-
-But if you're looking for some free cat-petting opportunities, head over to the School of Journalism and Communication at Nanjing University. It's home to the most beautiful cats on the entire Nanjing University campus. You're sure to have a great time. And don't forget to bring some cat treats or freeze-dried snacks!
+- Managed and operated NetEase Media's official Weibo and Xiaohongshu public accounts, including content planning, publishing, and engagement management to enhance brand influence and user retention, achieving cumulative views exceeding 2 million.
+- Actively participated in NetEase's large-scale youth media professional development program, serving as primary lead and ranking second overall in the camp's comprehensive scoring system (Top 0.9%).
 
 
 <br>
