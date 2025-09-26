@@ -14,7 +14,7 @@ IAMCR2024, Independent Author.
 - Based on Collins' theory of the interactive ritual chain, this study employed a mixed-methods approach (survey + participant observation + interviews and observation) to explore the process and motivational mechanisms by which viewers transition from passive observers to fans. It examined the shared subcultural identity within fan communities and how this identity is expressed and disseminated.
 - The research delves into the subcultural domain surrounding Vtubers, aiming to better understand fan group behavior patterns within digital environments.
 
-<img src="/assets/img/11.png" align = "middle" width = "800px">
+<img src="/assets/img/12.jpg" align = "middle" width = "800px">
 
 
 ## UNESCO, Beijing Office, Project Assistant
