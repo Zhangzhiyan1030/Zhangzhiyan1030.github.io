@@ -14,7 +14,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Pursuing a degree in Advertising at Communication University of China with a GPA of 3.86/4.0, ranking in the top 3% of my major. Possess strong research capabilities, having independently completed multiple papers on topics including virtual streamer subcultures, AIGC acceptance, and graffiti art's impact on urban imagery. Research has been accepted for presentation at international conferences such as IAMCR, AEJMC, and CPCI. Extensive internship experience includes roles at CCTV Entertainment Media, UNESCO China Office, and NetEase Media, where I contributed to advertising strategy, project operations, and new media content management, demonstrating strong cross-cultural communication and execution skills. Recognized with awards including the National Third Prize at Milan Design Week and Provincial Awards at the China Advertising Grand Prix. Hold a Professional Certificate in Market Research Analysis and software copyrights. Proficient in English (IELTS 7.0), combining academic rigor with practical expertise. You can find [CV](cv/) here. I haven't updated it yet. If you click on it now, you'll only see the teacher's CV.
+Zhang Zhiyan earned her bachelor's degree in Advertising from [Communication University of China](https://www.cuc.edu.cn/) with a GPA of 3.86/4.0, ranking first in her major. She possesses strong research capabilities, having contributed to multiple academic papers exploring virtual streamer subcultures, AIGC, graffiti art, and urban imagery. Her work has been accepted for presentation at international conferences including IAMCR 2024 and AEJMC 2024.
+
+With extensive internship experience at leading organizations including CCTV Entertainment Media, UNESCO China Office, and NetEase Media, he demonstrates strong cross-cultural communication and execution capabilities.
+
+His accolades include a national award at Milan Design Week and multiple honors in the National College Advertising Competition. He holds a professional certification in market research analysis. Possessing outstanding English proficiency (IELTS 7.5), he combines robust academic research skills with practical operational expertise.
+
+Currently pursuing a degree in Digital Marketing Communication at Nanjing University's School of Journalism and Communication.
+
 
 <img src="/assets/img/jumping bear.jpg" align = "middle" width = "800px">
 
