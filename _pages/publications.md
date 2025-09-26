@@ -24,7 +24,7 @@ AEJMC2024, Independent Author.
 -  Based on Davis's Technology Acceptance Model (TAM), this study employs questionnaire surveys and in-depth interviews within the disciplinary framework of intelligent human-computer communication. It analyzes the trust and acceptance levels among college students in first-tier cities when using AI content generation tools (such as ChatGPT) for creating text and image content during their studies.
 - As an independent author, I have read a substantial volume of relevant domestic and international literature and publications, developing preliminary capabilities in retrieving, collecting, and processing scholarly materials. I am self-taught and proficient in utilizing data analysis software such as SPSS.
 
-<img src="/assets/img/11.png" align = "middle" width = "800px">
+<img src="/assets/img/13.png" align = "middle" width = "800px">
 
 
 
