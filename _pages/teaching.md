@@ -14,8 +14,8 @@ November 2023 - October 2024
 - Responsible for proposing creative concepts for daily advertising and variety programs, serving as art director for the visual packaging of CCTV-11 (Drama Channel) programs, including overseeing and designing the visual style of programs, and assisting in event planning for units directly under CCTV.
 - Assisted in planning and filming the 2024 12315 Public Service Gala promotional video, which garnered over 10 million shares and views. To date, it remains the only public service advertisement that CCTV has exceptionally broadcast across all channels from CCTV-1 to CCTV-17.
 
-<iframe width="100%" height="400" src="https://www.bilibili.com/video/BV1K1421Q7Mn/?spm_id_from=888.80997.embed_other.whitelist&bvid=BV1K1421Q7Mn&vd_source=a84973bbb6b14c9c1844d283d3a1e4d0" frameborder="0" allowfullscreen></iframe>
-
+<video src="https://www.bilibili.com/video/BV1K1421Q7Mn/?spm_id_from=888.80997.embed_other.whitelist&bvid=BV1K1421Q7Mn&vd_source=a84973bbb6b14c9c1844d283d3a1e4d0" controls width="100%">
+</video>
 
 
 ## Internship Experience
