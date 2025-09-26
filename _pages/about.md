@@ -18,7 +18,7 @@ Zhang Zhiyan earned her bachelor's degree in Advertising from [Communication Uni
 
 With extensive internship experience at leading organizations including CCTV Entertainment Media, UNESCO China Office, and NetEase Media, he demonstrates strong cross-cultural communication and execution capabilities.
 
-His accolades include a national award at Milan Design Week and multiple honors in the National College Advertising Competition. He holds a professional certification in market research analysis. Possessing outstanding English proficiency (IELTS 7.5), he combines robust academic research skills with practical operational expertise.
+Her accolades include a national award at Milan Design Week and multiple honors in the National College Advertising Competition. She holds a professional certification in market research analysis. Possessing outstanding English proficiency (IELTS 7.5), she combines robust academic research skills with practical operational expertise.
 
 Currently pursuing a degree in Digital Marketing Communication at [Nanjing University's School of Journalism and Communication](https://jc.nju.edu.cn/).
 
