@@ -4,7 +4,7 @@ permalink: /Publication/
 title: Publication
 description: Advancing with passion and perseverance on the academic journey!
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ## The Formation Process of Virtual YouTuber Fans and Subcultural Identity Styles: A Case Study of Japan's NIJISANJI Inc. Vtubers
@@ -17,22 +17,15 @@ IAMCR2024, Independent Author.
 <img src="/assets/img/12.jpg" align = "middle" width = "800px">
 
 
-## UNESCO, Beijing Office, Project Assistant
+## Exploring Trust and Acceptance of AI Content Generation Tools Among College Students in Tier-1 Cities: A Case Study of ChatGPT
 
-February 2024 - May 2024
+AEJMC2024, Independent Author.
 
--  Provide necessary administrative support for the implementation, monitoring, and evaluation of the “Protection and Management of World Heritage Sites in China” project and other regular programs, as well as for budget control and reporting.
-- Assist in drafting various reports, correspondence, and official documents, such as periodic reports on program implementation, country briefings, United Nations reports, and official correspondence, and provide translation and interpretation services (Chinese-English and English-Chinese) as required.
+-  Based on Davis's Technology Acceptance Model (TAM), this study employs questionnaire surveys and in-depth interviews within the disciplinary framework of intelligent human-computer communication. It analyzes the trust and acceptance levels among college students in first-tier cities when using AI content generation tools (such as ChatGPT) for creating text and image content during their studies.
+- As an independent author, I have read a substantial volume of relevant domestic and international literature and publications, developing preliminary capabilities in retrieving, collecting, and processing scholarly materials. I am self-taught and proficient in utilizing data analysis software such as SPSS.
 
 <img src="/assets/img/11.png" align = "middle" width = "800px">
 
-
-## NetEase Media (Beijing) Co., Ltd.
-
-NetEase News - New Media Operations Intern，March 2022 – March 2023
-
-- Managed and operated NetEase Media's official Weibo and Xiaohongshu public accounts, including content planning, publishing, and engagement management to enhance brand influence and user retention, achieving cumulative views exceeding 2 million.
-- Actively participated in NetEase's large-scale youth media professional development program, serving as primary lead and ranking second overall in the camp's comprehensive scoring system (Top 0.9%).
 
 
 <br>
