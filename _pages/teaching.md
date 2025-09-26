@@ -7,16 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-## Research Experience
+## CCTV Entertainment Media - Assistant Visual Director
 
-I have consistently demonstrated my passion along the path of scientific research.
+November 2023 - October 2024
 
-- 《The Formation Process of Virtual YouTuber Fans and Subcultural Identity Styles: A Case Study of Japan's NIJISANJI Inc. Vtubers》（IAMCR2024）
-Based on Collins' theory of interactive ritual chains, this study employs a mixed-methods approach (survey + participant observation + interviews and observation) to explore the process and motivational mechanisms by which live-stream viewers transition into fans. It examines the shared subcultural identity within fan communities and how this identity is expressed and disseminated. This research fills a gap in studies on Vtuber-related subcultures and enhances our understanding of fan group behavior patterns in digital environments.
-- 《Exploring Trust and Acceptance of AI Content Generation Tools Among College Students in Tier-1 Cities: A Case Study of ChatGPT》（AEJMC2024）
-Based on Davis's Technology Acceptance Model (TAM), this study employs questionnaire surveys and in-depth interviews within the disciplinary framework of intelligent human-computer communication. It analyzes the trust and acceptance levels among college students in first-tier cities when using AI content generation tools (such as ChatGPT) for creating text and image content during their studies. As an independent author, I have read a substantial volume of relevant domestic and international literature and publications, developing preliminary capabilities in retrieving, collecting, and processing scholarly materials. I am self-taught and proficient in utilizing data analysis software such as SPSS.
-- 《The Role of Graffiti Art as a Medium in Shaping Urban Image: A Case Study of Beijing's 798 Art District》（CPCI-independent author）
-Based on Lefebvre's theory of spatial production, this study employed qualitative research methods such as in-depth interviews and focus groups. Through independent interviews with 18 graffiti industry practitioners, it innovatively explored the relationship between graffiti art and urban image construction, analyzing the dissemination characteristics of graffiti art symbols within specific cultural spaces.
+- Responsible for proposing creative concepts for daily advertising and variety programs, serving as art director for the visual packaging of CCTV-11 (Drama Channel) programs, including overseeing and designing the visual style of programs, and assisting in event planning for units directly under CCTV.
+- Assisted in planning and filming the 2024 12315 Public Service Gala promotional video, which garnered over 10 million shares and views. To date, it remains the only public service advertisement that CCTV has exceptionally broadcast across all channels from CCTV-1 to CCTV-17.
+
+<iframe width="100%" height="400" src="https://www.bilibili.com/video/BV1K1421Q7Mn/?spm_id_from=888.80997.embed_other.whitelist&bvid=BV1K1421Q7Mn&vd_source=a84973bbb6b14c9c1844d283d3a1e4d0" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## Internship Experience
