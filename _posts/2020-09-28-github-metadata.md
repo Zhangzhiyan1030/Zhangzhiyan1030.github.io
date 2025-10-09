@@ -4,6 +4,7 @@ title:  a post with github metadata
 date: 2020-09-28 21:01:00
 description: a quick run down on accessing github metadata.
 tags: metadata
+hidden：true
 categories: sample-posts external-services
 ---
 
@@ -34,3 +35,4 @@ A sample blog page that demonstrates the accessing of github meta data.
 {% for contributor in site.github.contributors %}
   * {{ contributor.login }}
 {% endfor %}
+
